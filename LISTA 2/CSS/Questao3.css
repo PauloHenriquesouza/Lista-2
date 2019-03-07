@@ -1,0 +1,13 @@
+.questao3 : hover  .exercicio3__img1 {
+	exibir : nenhum ;
+}
+.questao3 : hover  .exercicio3__img2 {
+	display : bloco ;
+}
+.exercicio3__img1 {
+	display : bloco ;
+}
+
+.exercicio3__img2 {
+	exibir : nenhum ;
+}

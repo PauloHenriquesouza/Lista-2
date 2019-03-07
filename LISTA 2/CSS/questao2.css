@@ -1,0 +1,59 @@
+
+a#l01:link {
+	text-decoration: none;
+	}
+	
+	
+	a#l02:link, a#l02:visited  {
+	text-decoration:overline;
+	}
+	a#l02:hover {
+	text-decoration: underline;
+	}
+	a#l02:active {
+	text-decoration: line-through;
+	}
+	
+	a#l03 {
+	color:orange;
+	}
+	a#l03:link {
+	text-decoration: none;
+	}
+	a#l03:hover {
+	text-decoration: underline;
+	color: green;
+	}
+	
+	
+	a#l04 {
+	color: white;
+	border: 1px solid blue;
+	}
+	a#l04:link {
+	text-decoration: none;
+	background-color: black;
+	}
+	a#l04:hover {
+	border-style: dotted;
+	border-color: black;
+	background-color: #FFFFFF;
+	color: black;
+	}
+	
+	a#l05 {
+	color: red;
+	}
+	a#l05:link {
+	text-decoration: none;
+	}
+	a#l05:hover {
+	text-decoration: underline;
+	font-style: italic;
+	font-weight: bold;
+	color: orange;
+	}
+	a#l05:active {
+	text-decoration: none;
+	color: yellow;
+	}

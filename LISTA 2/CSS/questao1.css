@@ -1,0 +1,23 @@
+p {
+	borda direita : 20 em  sólido  # 008000 ;
+	borda esquerda : 20 em  sólido  # FF0000 ;
+	largura : 60 % ;
+	altura : 400 px ;
+	tamanho da fonte : 12 px ;
+	espaçamento entre letras : 3 px ;
+	espaçamento entre palavras : 4 px ;
+	alinhamento de texto : justificar ;
+	font-family : " Verdana " ;
+	recuo de texto : 25 px ;
+}
+
+p :: primeira letra {
+	tamanho da fonte : 36 px ;
+	cor : # 0000FF ;
+	text-decoration : overline ;
+}
+
+p :: primeira linha {
+	text-decoration : sublinhado ;
+	text-transform : maiúscula ;
+}
